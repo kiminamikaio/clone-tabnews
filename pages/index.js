@@ -1,5 +1,10 @@
 function Home() {
-    return <h1>Vc é Incrível</h1>
+    return <h1>
+        Pena de ururbu, 
+        pena de galinha, 
+        se vc ja deu o c#, 
+        da uma risadinha
+        </h1>
 }
 
 export default Home;
